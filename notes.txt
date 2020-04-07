@@ -1,0 +1,13 @@
+https://miro.medium.com/max/1400/1*-i5m47JMGAhGVIdQPThnDQ.jpeg
+
+
+- naujas projekto katalogas;
+    - index.html;
+        - projekto HTML struktura;
+        - kiekviena elementa sustailinti;
+    - issikirpti serloko nuotrauka;
+
+- GIT;
+    - commit;
+
+- Github
